@@ -1,1 +1,1 @@
-BookBot is my first project!
+BookBot is a text parser project
